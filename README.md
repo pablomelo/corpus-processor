@@ -3,10 +3,10 @@ Corpus Processor
 
 [![Gem Version](https://fury-badge.herokuapp.com/rb/corpus-processor.png)](http://badge.fury.io/rb/corpus-processor)
 
-* [Versão em português](#versao-em-portugues)
+* [Versão em português](#verso-em-portugus)
 * [English version](#english-version)
 
-Versão em portuguễs
+Versão em português
 ===================
 
 Corpus Processor é uma ferramenta para trabalhar com [Linguística de Corpus](http://pt.wikipedia.org/wiki/Lingu%C3%ADstica_de_corpus). Ele converte _corpora_ entre diferentes formatos para serem usado em ferramentas de Processamento de Linguagem Natural (NLP).
